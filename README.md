@@ -18,7 +18,7 @@ Matplotlib
 Pandas
 ## Installation
 Clone the repository:
-git clone https://github.com/your_username/fruit-vegetable-classifier.git
+git clone https://github.com/Exstaa/fruit-vegetable-classifier.git
 Install dependencies:
 pip install -r requirements.txt
 ## Usage
